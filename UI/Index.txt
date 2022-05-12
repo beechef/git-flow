@@ -1,1 +1,2 @@
 Include Login Page
+Include Register Page
