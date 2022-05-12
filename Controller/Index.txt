@@ -1,3 +1,5 @@
 Include Login Controller
 Include Register Controller
+Include Single Chat Controller
+Include Group Chat Controller
 Include Video Chat Controller
